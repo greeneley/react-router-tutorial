@@ -1,7 +1,7 @@
 
 # React-Router-Tutorial
 
-This repo follows the official tutorial from react-router v.6.8: [Link](https://reactrouter.com/en/main/start/tutorial)
+This repo follows the official tutorial from react-router v.6.8: [Link](https://reactrouter.com/en/main/start/tutorial). Update
 
 ## Features
 
